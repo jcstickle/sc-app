@@ -1,0 +1,35 @@
+Roles
+
+	Potential Member (SC Member)
+		A potential member of the Senior Center
+
+
+	Senior Center Director (SC Director)
+		Manages a senior center
+		Contacts newly signed up members (email or phone)
+
+
+	Senior Services Director (SSI Director)
+		Responsible for all services provided by Senior Services Inc of Wichita
+
+
+	Senior Services Adminstrator (SSI Admin)
+		Sends out Active Seniors mailer (mail or email)
+
+
+
+User Stories
+
+
+As a potential new SC Member I want to sign up for a membership online so that I can participate in activies provided by a Senior Center.
+
+
+As a SC Director I want to be notified by email when a new membership is submitted so that I can contact the new member to welcome them.
+
+As a SC Director I want to be able to assign the new SC Member a unique ID associated with the ???
+
+
+As the SSI Director I want to generate a report that provides the number of  new members signed up, the number of members deactivated, and the total members by month for each Senior Center so that I can provide the required information to the Sedgwick County Department of Aging.
+
+
+As an SSI Admin I want to create a mailing list so that I can send out the Active Aging Newsletter.

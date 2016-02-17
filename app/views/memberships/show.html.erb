@@ -1,0 +1,34 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Member:</strong>
+  <%= @membership.member_id %>
+</p>
+
+<p>
+  <strong>First name:</strong>
+  <%= @membership.first_name %>
+</p>
+
+<p>
+  <strong>Middle name:</strong>
+  <%= @membership.middle_name %>
+</p>
+
+<p>
+  <strong>Last name:</strong>
+  <%= @membership.last_name %>
+</p>
+
+<p>
+  <strong>Email:</strong>
+  <%= @membership.email %>
+</p>
+
+<p>
+  <strong>Home phone:</strong>
+  <%= @membership.home_phone %>
+</p>
+
+<%= link_to 'Edit', edit_membership_path(@membership) %> |
+<%= link_to 'Back', memberships_path %>
